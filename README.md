@@ -1,3 +1,8 @@
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+</div>
+
 <img align="right" src="https://count.getloli.com/get/@:naia-better?theme=rule34">
 
 ## 前端工程师—Naia 🕒
