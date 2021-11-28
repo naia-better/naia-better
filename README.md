@@ -24,7 +24,9 @@
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=naia-better&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![naia-better's github stats](https://github-readme-stats.vercel.app/api?username=naia-better&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naia-better)
+
+[![](https://activity-graph.herokuapp.com/graph?username=naia-better&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
