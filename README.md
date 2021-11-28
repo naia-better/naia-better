@@ -29,4 +29,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naia-better)
 
-[![](https://activity-graph.herokuapp.com/graph?username=naia-better&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
