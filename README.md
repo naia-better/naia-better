@@ -24,8 +24,8 @@
 
 ### Github 活跃度
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naia-better)
 ![naia-better's github stats](https://github-readme-stats.vercel.app/api?username=naia-better&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naia-better)
+
 
