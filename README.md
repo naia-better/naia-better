@@ -25,7 +25,7 @@
 ### Github 活跃度
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naia-better)
-![naia-better's github stats](https://github-readme-stats.vercel.app/api?username=naia-better&show_icons=true&theme=vue)
+
 
 
 
@@ -45,7 +45,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-
+![naia-better's github stats](https://github-readme-stats.vercel.app/api?username=naia-better&show_icons=true&theme=vue)
 - 🌱 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
