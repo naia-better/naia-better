@@ -2,13 +2,13 @@
 
 ## 前端工程师—Naia
 
-热爱前端、热爱技术，喜欢参与一些开源项目的讨论
+热爱前端、热爱技术，热爱生活，喜欢交朋友~~
 
 ### **社交主页：**
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
-- <a href="https://juejin.cn/user/1706892303010734"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：发表了 18 篇技术文章，2 万阅读
+- <a href="https://juejin.cn/user/1706892303010734"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：发表一些平时比较感兴趣的文章。
 
 ### **技术栈:**
 
