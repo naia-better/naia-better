@@ -1,5 +1,8 @@
 <img align="right" src="https://count.getloli.com/get/@:naia-better?theme=rule34">
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">,  I'm Naia. Welcome to my GitHub.</h1>
+ <p align="center"><br/>
+
 ## 前端工程师—Naia 🕒
 
 热爱前端、热爱技术，热爱生活，喜欢交朋友~~ 🌜☀️🌝🌞⭐
