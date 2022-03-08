@@ -7,11 +7,7 @@
 
 热爱前端、热爱技术，热爱生活，喜欢交朋友~~ 🌜☀️🌝🌞⭐
 
-### **社交主页：**
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
-
-- <a href="https://juejin.cn/user/1706892303010734"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：发表一些平时比较感兴趣的文章。
 
 ### **前端技术:**
 
