@@ -9,9 +9,9 @@
 
 ### **社交主页：**
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%"  pointer-events: none/>
+ <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
--<img height="20" width="50" src="./images/juejin.png">：发表一些平时比较感兴趣的文章。
+- <a href="https://juejin.cn/user/1706892303010734" <img height="20" width="50" src="./images/juejin.png"></a>：平时喜欢看一些比较感兴趣的文章，丰富自己的前端知识。
 
 ### **前端技术:**
 
