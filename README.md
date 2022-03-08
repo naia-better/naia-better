@@ -11,7 +11,7 @@
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
-- <code><img height="20" width="50" src="./images/juejin.png"></code>：发表一些平时比较感兴趣的文章。
+-<img height="20" width="50" src="./images/juejin.png">：发表一些平时比较感兴趣的文章。
 
 ### **前端技术:**
 
